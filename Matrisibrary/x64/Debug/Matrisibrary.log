@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ferhat\source\repos\c\Matrisibrary\Matrisibrary\Sum.h(95): warning C4715: 'Sum::toplam': not all control paths return a value
+C:\Users\Ferhat\source\repos\c\Matrisibrary\Matrisibrary\Multiply.h(122): warning C4715: 'Multiply::islem': not all control paths return a value
+  Matrisibrary.vcxproj -> C:\Users\Ferhat\source\repos\c\Matrisibrary\x64\Debug\Matrisibrary.exe
