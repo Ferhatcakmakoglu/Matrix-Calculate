@@ -8,7 +8,8 @@ int main()
 	int islem;
 	cout << "~ Matris Sistemi ~" << endl;
 	cout << "#1 Matris Toplama\n"
-			"#2 Matris Carpma" << endl;
+			"#2 Matris Carpma\n"
+			"#3 Matris Transpoz"<< endl;
 	cout << "Yapmak istediginiz islemi seciniz: ";
 	cin >> islem;
 
@@ -22,6 +23,8 @@ int main()
 		Multiply m = Multiply();
 		m.islem();
 		break;
+	case 3:
+		//Matris transpozu yeri yazilacak
 	default:
 		cout << "Hatali Tuslama";
 	}
